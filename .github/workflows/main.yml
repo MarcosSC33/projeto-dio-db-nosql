@@ -22,6 +22,5 @@ jobs:
           context: .
           push: true
           tags: |
-            marcossc20/projeto-db-dio:v1
-            marcossc20/projeto-db-dio:latest 
+            marcossc20/mongo
   
