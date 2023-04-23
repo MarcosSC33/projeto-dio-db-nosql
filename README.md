@@ -7,4 +7,4 @@ Este repositório contem o arquivo docker-compose usado para criar a imagem
 
 Aqui também está o arquivo exportado da ide studio 3t que utilizei para criar o banco de dados
 
-# O arqui banco de dados referente ao desafio está no arquivo 'projeto-dio-nosql'
+# O arquivo do banco de dados referente ao desafio está no arquivo 'projeto-dio-nosql'
