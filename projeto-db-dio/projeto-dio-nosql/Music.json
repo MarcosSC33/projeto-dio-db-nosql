@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("64431ea142cd93b45d9b6aea"),
+    "Artista" : "Racionais MC's",
+    "SongTitle" : "Diario de um detento",
+    "AlbumTitle" : "Sobrevivendo no inferno",
+    "SongYear" : "1997"
+}
+{
+    "_id" : ObjectId("64431eab42cd93b45d9b6aeb"),
+    "Artista" : "Iron Maiden",
+    "SongTitle" : "Desperdiçar Amor",
+    "AlbumTitle" : "Fear of the Dark Live",
+    "SongYear" : "1992"
+}
+{
+    "_id" : ObjectId("64431eab42cd93b45d9b6aec"),
+    "Artista" : "Iron Maiden",
+    "SongTitle" : "Guerreiro do Fim de Semana",
+    "AlbumTitle" : "Medo do Escuro",
+    "SongYear" : "1992"
+}
+{
+    "_id" : ObjectId("64431eab42cd93b45d9b6aed"),
+    "Artista" : "Iron Maiden",
+    "SongTitle" : "Medo do Escuro",
+    "AlbumTitle" : "Fear of the Dark Tour",
+    "SongYear" : "1992"
+}
+{
+    "_id" : ObjectId("64431f4d42cd93b45d9b6aee"),
+    "Artista" : "Iron Maiden",
+    "SongTitle" : "Chains of Misery",
+    "AlbumTitle" : "Medo do Escuro",
+    "SongYear" : "1992"
+}
